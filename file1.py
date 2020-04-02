@@ -11,3 +11,5 @@ x=1
 print(x)
 y="sona"
 print(y)
+z="prashant
+print(z)
